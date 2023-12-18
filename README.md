@@ -9,6 +9,7 @@ Installation
 
 * Prerequisites
     - [PySCF](https://github.com/pyscf/pyscf) 2.0 or higher.
+    - [MPI4PySCF](https://github.com/zhcui/mpi4pyscf.git).
 
 * Add polar top-level directory to your `PYTHONPATH` and you are all set!
   e.g. if polar is installed in `/opt`, your `PYTHONPATH` should be
